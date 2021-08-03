@@ -1,0 +1,7 @@
+export const ADD_TO_P_LIST = "ADD_TO_P_LIST"
+export const REMOVE_FROM_P_LIST = "REMOVE_FROM_P_LIST"
+export const CHECK_P_PRODUCT = "CHECK_P_PRODUCT"
+export const CLEAR_LIST = "CLEAR_LIST"
+export const CHECK_S_PRODUCT = "CHECK_S_PRODUCT"
+export const ADD_TO_S_LIST = "ADD_TO_S_LIST"
+export const REMOVE_FROM_S_LIST = "REMOVE_FROM_S_LIST"
