@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NewPersoList/static/css/main.0f5c6175.chunk.css",
+    "main.js": "/NewPersoList/static/js/main.0d5459f9.chunk.js",
+    "main.js.map": "/NewPersoList/static/js/main.0d5459f9.chunk.js.map",
+    "runtime-main.js": "/NewPersoList/static/js/runtime-main.e9031633.js",
+    "runtime-main.js.map": "/NewPersoList/static/js/runtime-main.e9031633.js.map",
+    "static/css/2.fd9818be.chunk.css": "/NewPersoList/static/css/2.fd9818be.chunk.css",
+    "static/js/2.eb399979.chunk.js": "/NewPersoList/static/js/2.eb399979.chunk.js",
+    "static/js/2.eb399979.chunk.js.map": "/NewPersoList/static/js/2.eb399979.chunk.js.map",
+    "static/js/3.e21936d2.chunk.js": "/NewPersoList/static/js/3.e21936d2.chunk.js",
+    "static/js/3.e21936d2.chunk.js.map": "/NewPersoList/static/js/3.e21936d2.chunk.js.map",
+    "index.html": "/NewPersoList/index.html",
+    "static/css/2.fd9818be.chunk.css.map": "/NewPersoList/static/css/2.fd9818be.chunk.css.map",
+    "static/css/main.0f5c6175.chunk.css.map": "/NewPersoList/static/css/main.0f5c6175.chunk.css.map",
+    "static/js/2.eb399979.chunk.js.LICENSE.txt": "/NewPersoList/static/js/2.eb399979.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/NewPersoList/static/media/teko-latin-ext-400-normal.3b6ad77d.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9031633.js",
+    "static/css/2.fd9818be.chunk.css",
+    "static/js/2.eb399979.chunk.js",
+    "static/css/main.0f5c6175.chunk.css",
+    "static/js/main.0d5459f9.chunk.js"
+  ]
+}
