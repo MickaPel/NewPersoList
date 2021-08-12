@@ -32,14 +32,14 @@ function Home() {
     const classes = useStyles();
 
     const styles = {
-        fontSize: 20,
+        fontSize: 40,
         color: "#B4846C",
         fontFamily: 'Teko'
     };
 
     return (
         <div className={classes.root}>
-                <Typography variant="body2" component="p" 
+                {/* <Typography variant="body2" component="p" 
                 style={styles}
                 >
                 Avez-vous déja réussi à faire votre liste de courses sans oublier un produit? Ou pire encore, oublié
@@ -57,7 +57,10 @@ function Home() {
                 refaire une liste chaque semaine, mais plutôt personnaliser celle d'origine. 
                 <br />
                 Ne vous inquietez pas, c'est super simple!
-                </Typography>
+                </Typography> */}
+                <Typography variant="body2" component="p" 
+                style={styles}
+                >Bienvenu dans PersoList!</Typography>
                     
                         <Button color="inherit" 
                                         component={Link} 

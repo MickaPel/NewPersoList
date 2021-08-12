@@ -24,7 +24,7 @@ function App() {
 
           <Header />
 
-            <Route exact path="/" component={Home} />
+            <Route path="/" component={Home} />
             <Route path="/sign-up" component={SignUp} />
             <Route path="/login" component={Login} />
             <Route path="/profile" component={Profile} />
